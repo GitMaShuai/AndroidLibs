@@ -31,7 +31,7 @@ Add topics
 
 Android 任意View边沿渐变透明
 
-![view](https://github.com/GuoYangGit/EdgeTranslucent/raw/master/image/image.gif)
+![view](https://github.com/qinci/EdgeTranslucent/raw/master/image/image.gif)
 
 8.[**MarkdownView**](https://github.com/tiagohm/MarkdownView)
 
@@ -61,7 +61,7 @@ Android-skin-support: 一款用心去做的Android 换肤框架, 极低的学习
 
 13.[**Stepper-Touch**](https://github.com/DanielMartinus/Stepper-Touch)
 
-![Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch)
+![Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif)
 
 14.[**LoggingInterceptor**](https://github.com/ihsanbal/LoggingInterceptor)
 
