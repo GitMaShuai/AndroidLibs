@@ -25,3 +25,8 @@
 
 	这是一个能让你在Kotlin下使用DSL的方式快速优雅的写Android动画的工具。 该项目是一个使用Kotlin的lambda表达式与扩展函数特性封装的DSL工具，如果你有一定的Kotlin基础，并且喜欢DSL的优雅，那么这个项目会是一个不错的学习对象。
 
+12. [**Kotlin 系统入门到进阶 视频教程**](https://github.com/enbandari/Kotlin-Tutorials)
+
+13. [**kotlin学习手册**](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
+
+14. [**用Kotlin协程把网络请求玩出花来**](https://juejin.im/post/59cf35206fb9a00a5143b83f)
