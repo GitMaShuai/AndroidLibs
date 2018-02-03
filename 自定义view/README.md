@@ -164,3 +164,9 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 30. [**AndroidSweetSheet**](https://github.com/zzz40500/AndroidSweetSheet)
 
 	![AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet/raw/master/screenshot/Design.gif)
+
+31. [**ContourView**](https://github.com/OCNYang/ContourView)
+	
+	自定义View：通过贝塞尔曲线绘制出的魔炫背景。
+	
+	![](https://camo.githubusercontent.com/0486ba683582ef55ee284c0681f358d8c8b6a64f/687474703a2f2f6f6262753672316d692e626b742e636c6f7564646e2e636f6d2f6769746875622f636f6e746f7572766965772f7265666572656e63652e706e67)
