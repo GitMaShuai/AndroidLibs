@@ -170,3 +170,11 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 	自定义View：通过贝塞尔曲线绘制出的魔炫背景。
 	
 	![](https://camo.githubusercontent.com/0486ba683582ef55ee284c0681f358d8c8b6a64f/687474703a2f2f6f6262753672316d692e626b742e636c6f7564646e2e636f6d2f6769746875622f636f6e746f7572766965772f7265666572656e63652e706e67)
+	
+32. [**CalendarView**](https://github.com/huanghaibin-dev/CalendarView)
+	
+	Android上一个优雅、万能自定义UI、支持周视图、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！
+
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu.png)![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu_shrink.png)
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/index_expand.png)![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/color_expand.png)
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/year_view.png)![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/simple_expand.png)
