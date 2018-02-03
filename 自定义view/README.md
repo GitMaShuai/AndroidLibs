@@ -174,7 +174,15 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 32. [**CalendarView**](https://github.com/huanghaibin-dev/CalendarView)
 	
 	Android上一个优雅、万能自定义UI、支持周视图、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！
-
-	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu.png)![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu_shrink.png)
-	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/index_expand.png)![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/color_expand.png)
-	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/year_view.png)![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/simple_expand.png)
+	
+	**收缩展开的魅族风格效果**
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu.png)
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu_shrink.png)
+	
+	**下标和多彩风格**
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/index_expand.png)
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/color_expand.png)
+	
+	**快速年份月份切换**
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/year_view.png)
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/simple_expand.png)
