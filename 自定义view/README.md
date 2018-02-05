@@ -186,3 +186,13 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 	**快速年份月份切换**
 	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/year_view.png)
 	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/simple_expand.png)
+
+33. [**transitioner**](https://github.com/dev-labs-bg/transitioner)
+	
+	一个用于view位移动画的库
+	![](https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif)
+
+34. [**LoadingView**](https://github.com/Carson-Ho/Kawaii_LoadingView)
+	
+	一个可爱 & 小清新的加载等待Android控件
+	![](https://camo.githubusercontent.com/a031270ef986a392916ac4c7fce2200e00ae3f58/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3934343336352d613963633733366233376231656432662e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)

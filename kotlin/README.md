@@ -30,3 +30,11 @@
 13. [**kotlin学习手册**](https://github.com/wangjiegulu/kotlin-for-android-developers-zh/blob/master/SUMMARY.md)
 
 14. [**用Kotlin协程把网络请求玩出花来**](https://juejin.im/post/59cf35206fb9a00a5143b83f)
+15. [**用Kotlin去提高生产力**](https://github.com/heimashi/kotlin_tips)
+	
+	用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips
+
+16. [**RxDownload**](https://github.com/ssseasonnn/RxDownload/blob/master/README.ch.md)
+	
+	基于RxJava打造的下载工具, 支持多线程下载和断点续传,使用Kotlin编写
+
