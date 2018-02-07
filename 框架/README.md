@@ -100,3 +100,5 @@ Add topics
 11. [**《安卓-深入浅出MVVM教程》应用篇-08 RxJava2**](https://www.jianshu.com/p/fcee079651d6)
 12. [**《安卓-深入浅出MVVM教程》应用篇-09 Dagger2**](https://mp.weixin.qq.com/s/6brisuV-zcahMoL61pYRwA)
 13. [**《安卓-深入浅出MVVM教程》原理篇-01 MyLiveData（最简单的LiveData）**](https://www.jianshu.com/p/74190725cf9c)
+14. [**DataBinding实用指南**](https://www.jianshu.com/p/015ad08c2c75?utm_source=desktop&utm_medium=timeline)
+15. [**Dagger2的轻松愉悦解析**](https://www.jianshu.com/p/9e5d2dbc4ad6)
