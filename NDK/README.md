@@ -1,0 +1,22 @@
+### 关于NDK开发的教程
+----
+1. [**C语言基础及指针①基础语法**](https://www.jianshu.com/p/4701cd1e1914)
+2. [**C语言基础及指针②之指针内存分析**](https://www.jianshu.com/p/d556070b12ef)
+3. [**C语言基础及指针③函数与二级指针**](https://www.jianshu.com/p/184df8a1f195)
+4. [**C语言基础及指针④函数指针**](https://www.jianshu.com/p/181b50e02c89)
+5. [**C语言基础及指针⑤动态内存分配**](https://www.jianshu.com/p/93db7c692d1b) 
+6. [**C语言基础及指针⑥字符操作**](https://www.jianshu.com/p/b7e6fc094087)
+7. [**C语言基础及指针⑦结构体与指针**](https://www.jianshu.com/p/36cc18151e87)
+8. [**C语言基础及指针⑧文件IO**](https://www.jianshu.com/p/eb5d58800a63)
+9. [**C语言基础及指针⑨联合体与枚举**](https://www.jianshu.com/p/0bd682066106)
+10. [**C语言基础及指针⑩预编译及jni.h分析**](https://www.jianshu.com/p/569f968bcdce)
+11. [**JNI开发系列①JNI概念及开发流程**](https://www.jianshu.com/p/68bca86a84ce)
+12. [**JNI开发系列②.h头文件分析**](https://www.jianshu.com/p/cba836f6a08c)
+13. [**JNI开发系列③C语言调用Java字段与方法**](https://www.jianshu.com/p/9cc6e3f0ead7)
+14. [**JNI开发系列④C语言调用构造方法**](https://www.jianshu.com/p/b0403771944f)
+15. [**JNI开发系列⑤对象引用的处理**](https://www.jianshu.com/p/09469f692a4b)
+16. [**NDK开发基础①使用Android Studio编写NDK**](https://www.jianshu.com/p/f1b8b97d2ef8)
+17. [**NDK开发基础②文件加密解密与分割合并**](https://www.jianshu.com/p/4333d7ddf615)
+18. [**NDK开发基础③增量更新之服务器端生成差分包**](https://www.jianshu.com/p/47d6c115f7ca)
+19. [**NDK开发基础④增量更新之客户端合并差分包**](https://www.jianshu.com/p/da0379dff84d)
+
