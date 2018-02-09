@@ -6,6 +6,8 @@
 	一套完整有效的android组件化方案，支持组件的组件完全隔离、单独调试、集成调试、组件交互、UI跳转、动态加载卸载等功能 Edit
 Add topics
 
+2. [**Router:一款单品、组件化、插件化全支持的路由框架**](https://juejin.im/post/5a37771f6fb9a0450e7636e0)
+
 2. [**LoggingInterceptor**](https://github.com/ihsanbal/LoggingInterceptor)
 
 	一款关于okhttp的拦截器
