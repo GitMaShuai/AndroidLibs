@@ -37,4 +37,6 @@
 16. [**RxDownload**](https://github.com/ssseasonnn/RxDownload/blob/master/README.ch.md)
 	
 	基于RxJava打造的下载工具, 支持多线程下载和断点续传,使用Kotlin编写
+	
+17. [**官方新出的 Kotlin 扩展库 KTX，到底帮你干了什么？**](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2018/0207/9324.html)
 
