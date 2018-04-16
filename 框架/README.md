@@ -104,3 +104,6 @@ Add topics
 13. [**《安卓-深入浅出MVVM教程》原理篇-01 MyLiveData（最简单的LiveData）**](https://www.jianshu.com/p/74190725cf9c)
 14. [**DataBinding实用指南**](https://www.jianshu.com/p/015ad08c2c75?utm_source=desktop&utm_medium=timeline)
 15. [**Dagger2的轻松愉悦解析**](https://www.jianshu.com/p/9e5d2dbc4ad6)
+16. [使用Kotlin构建MVVM应用程序—第一部分：入门篇](https://www.jianshu.com/p/80926d9e64f7)
+17. [使用Kotlin构建MVVM应用程序—第二部分：Retrofit及RxJava](https://www.jianshu.com/p/8993b247947a)
+18. [使用Kotlin构建MVVM应用程序—第三部分：Room](https://www.jianshu.com/p/264d7d0608f0)
