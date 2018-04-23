@@ -196,3 +196,8 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 	
 	一个可爱 & 小清新的加载等待Android控件
 	![](https://camo.githubusercontent.com/a031270ef986a392916ac4c7fce2200e00ae3f58/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3934343336352d613963633733366233376231656432662e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+
+35. [**Spark**](https://github.com/TonnyL/Spark)
+
+	好看的动态渐变背景
+	![](https://github.com/TonnyL/Spark/raw/master/art/spark.gif)
