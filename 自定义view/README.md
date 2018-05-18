@@ -201,3 +201,18 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 
 	好看的动态渐变背景
 	![](https://github.com/TonnyL/Spark/raw/master/art/spark.gif)
+	
+- [**Skeleton**](https://github.com/ethanhua/Skeleton)
+	
+	加载视图
+	![](https://github.com/ethanhua/Skeleton/raw/master/screenshots/01.gif)
+
+- [**ByeBurger**](https://github.com/githubwing/ByeBurger)
+	
+	极其简便的快速实现滑动隐藏标题栏和导航栏
+	![](https://github.com/githubwing/ByeBurgerNavigationView/raw/master/img/title.gif)
+
+- [**EasyBehavior**](https://github.com/JmStefanAndroid/EasyBehavior)
+	
+	一个可以上拉下滑的Ui效果(4.0+)
+	![](https://github.com/JmStefanAndroid/EasyBehavior/raw/master/gif/EasyBehavior.gif)

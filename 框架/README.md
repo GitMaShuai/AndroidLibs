@@ -106,3 +106,4 @@ Add topics
 - [**使用Kotlin构建MVVM应用程序—第一部分：入门篇**](https://www.jianshu.com/p/80926d9e64f7)
 - [**使用Kotlin构建MVVM应用程序—第二部分：Retrofit及RxJava**](https://www.jianshu.com/p/8993b247947a)
 - [**使用Kotlin构建MVVM应用程序—第三部分：Room**](https://www.jianshu.com/p/264d7d0608f0)
+- [**dapter终结者，包含DataBinding，任意ViewGroup，Rv、Lv列表**](https://github.com/mcxtzhang/all-base-adapter)
