@@ -44,10 +44,4 @@
 
 	本项目是一个专注于收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源的集合
 	
-- [**使用DataBinding来进行字体的自定义**](https://www.jianshu.com/p/749af9b6c504)
-- [**使用DataBinding来设置空状态**](https://www.jianshu.com/p/276c8aa80f20)
-- [**告别findView和ButterKnife**](https://www.jianshu.com/p/499c8e2b80c4)
-- [**使用DataBinding来验证表单**](https://www.jianshu.com/p/17723760ef75)
-- [**使用DataBinding来设置空状态(二)-重新加载**](https://www.jianshu.com/p/d89f25342906)
-- [**DataBinding结合AspectJ防止多次点击**](https://www.jianshu.com/p/ea45670a364f)
-- [**DataBinding实用指南**](https://www.jianshu.com/p/015ad08c2c75)
+- [**如何在你的Kotlin代码中移除所有的!!(非空断言)**](https://juejin.im/post/5afd9090f265da0ba46a0429)
