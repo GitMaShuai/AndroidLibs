@@ -62,6 +62,7 @@
 - [**Roll3DImageView**](https://github.com/zhangyuChen1991/Roll3DImageView)
 
 	这是一个实现图片3D翻转的自定义view,包含四种3D翻转的效果以及一种2D平移效果。  
+	
 	| 2D平移 | 3D翻转 | 3D开合翻转 |
 	|:---:|:---:|:---:|
 	| ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/2d.gif) | ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/whole3D.gif) | ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/spe.gif) |
@@ -135,6 +136,7 @@
 - [**CardView**](https://github.com/vivian8725118/CardView)
 
 	类似小票效果的卡片列表，并且可以修改阴影颜色  
+	
 	| 图1 | 图2 |
 	|:---:|:---:|
 	| ![](https://github.com/vivian8725118/ShadeDemo/raw/master/art/S61201-155859.jpg) | ![](https://github.com/vivian8725118/ShadeDemo/raw/master/art/S61201-163058.jpg) |
@@ -159,6 +161,7 @@
 - [**CalendarView**](https://github.com/huanghaibin-dev/CalendarView)
 	
 	Android上一个优雅、万能自定义UI、支持周视图、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！ 
+	
 	| **收缩展开的魅族风格效果** | **下标和多彩风格** | **快速年份月份切换** |
 	|:---:|:---:|:---:|
 	| ![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu.png)  
@@ -250,12 +253,15 @@
 - [**PanoramaImageView**](https://github.com/gjiazhe/PanoramaImageView)
 
 	一款根据手腕滑动的view  
-	![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/horizontal_sample.gif)
-	![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/vertical_sample.gif)
+	
+	| 图1 | 图2 |
+	|:---:| :---:|
+	| ![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/horizontal_sample.gif) |![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/vertical_sample.gif) |
 
 - [**CombineBitmap**](https://github.com/SheHuan/CombineBitmap)
 
 	Android 仿钉钉、微信 群聊组合头像  
+	
 	| 钉钉 | 微信 |
 	|:---:| :---:|
 	| ![](https://github.com/SheHuan/CombineBitmap/raw/master/images/d3.PNG) | ![](https://github.com/SheHuan/CombineBitmap/raw/master/images/w8.PNG) |
