@@ -216,3 +216,24 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 	
 	一个可以上拉下滑的Ui效果(4.0+)
 	![](https://github.com/JmStefanAndroid/EasyBehavior/raw/master/gif/EasyBehavior.gif)
+
+- [Zhihu-Parallax-Animation](https://github.com/ryanhoo/Zhihu-Parallax-Animation)
+
+	知乎 Android 客户端启动页的视差动画效果实现
+	![](https://github.com/ryanhoo/Zhihu-Parallax-Animation/raw/develop/images/zhihu-parallax-animation.gif)
+	
+- [MISportsConnectWidget](https://github.com/sickworm/MISportsConnectWidget)
+
+	仿写酷界面】【HenCoder】仿小米运动的运动记录界面
+	![](https://raw.githubusercontent.com/SickWorm/MISportsConnectWidget/master/README/new.gif)
+
+- [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)
+
+	👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+	| EchelonLayoutManager | SkidRightLayoutManager | SlideLayoutManager |
+| :----: | :---:| :---:|
+|![img1](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif) |  ![img2](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)| ![img3](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)|
+
+| PickerLayoutManager | BannerLayoutManager | ViewPagerLayoutManager |
+| :---:| :---:|:---:|
+|  ![img4](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)|![img5](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)|![img6](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)|
