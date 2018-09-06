@@ -68,12 +68,12 @@
 
 	这是一个实现图片3D翻转的自定义view,包含四种3D翻转的效果以及一种2D平移效果。  
 	
-	| 2D平移 | 3D翻转 | 3D开合翻转 |
+	| **2D平移** | **3D翻转** | **3D开合翻转** |
 	|:---:|:---:|:---:|
 	| ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/2d.gif) | ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/whole3D.gif) | ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/spe.gif) |
 	
-	| 百叶窗 | 轮转效果 |
-	|:---:|:---:|:---:|
+	| **百叶窗** | **轮转效果** |
+	|:---:|:---:|
 	| ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/byc.gif) | ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/inturn.gif) |
 
 - [**HideKeyboard**](https://github.com/yingLanNull/HideKeyboard)
@@ -100,13 +100,13 @@
 
 - [**PagerBottomTabStrip**](https://github.com/tyzlmjj/PagerBottomTabStrip)
 
-	| 图1 | 图2 |
+	| **效果图1** | **效果图2** |
 	|:---:|:---:|
 	| ![](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo.png) | ![](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo8.png) |
 
 - [**BoomMenu**](https://github.com/Nightonke/BoomMenu)
 
-	| 图1 | 图2 | 图3 | 图4 |
+	| **效果图1** | **效果图2** | **效果图3** | **效果图4** |
 	|:---:|:---:|:---:|:---:|
 	| ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/text-inside-button.gif) | ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/ham-button.gif) | ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/actionbar-example.gif) | ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/share-example.gif) |
 	
@@ -117,7 +117,7 @@
 
 - [**SlidingUpPanelLayout**](https://github.com/woxingxiao/SlidingUpPanelLayout)
 
-	| 图1 | 图2 |
+	| **效果图1** | **效果图2** |
 	|:---:|:---:|
 	| ![](https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo1.gif) | ![](https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo2.gif) |
 
@@ -147,7 +147,7 @@
 
 	类似小票效果的卡片列表，并且可以修改阴影颜色  
 	
-	| 图1 | 图2 |
+	| **效果图1** | **效果图2** |
 	|:---:|:---:|
 	| ![](https://github.com/vivian8725118/ShadeDemo/raw/master/art/S61201-155859.jpg) | ![](https://github.com/vivian8725118/ShadeDemo/raw/master/art/S61201-163058.jpg) |
 
@@ -276,7 +276,7 @@
 
 	一款根据手腕滑动的view  
 	
-	| 图1 | 图2 |
+	| **效果图1** | **效果图2** |
 	|:---:| :---:|
 	| ![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/horizontal_sample.gif) |![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/vertical_sample.gif) |
 
@@ -284,7 +284,7 @@
 
 	Android 仿钉钉、微信 群聊组合头像  
 	
-	| 钉钉 | 微信 |
+	| **钉钉** | **微信** |
 	|:---:| :---:|
 	| ![](https://github.com/SheHuan/CombineBitmap/raw/master/images/d3.PNG) | ![](https://github.com/SheHuan/CombineBitmap/raw/master/images/w8.PNG) |
 	
