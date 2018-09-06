@@ -217,23 +217,79 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 	一个可以上拉下滑的Ui效果(4.0+)
 	![](https://github.com/JmStefanAndroid/EasyBehavior/raw/master/gif/EasyBehavior.gif)
 
-- [Zhihu-Parallax-Animation](https://github.com/ryanhoo/Zhihu-Parallax-Animation)
+- [**Zhihu-Parallax-Animation**](https://github.com/ryanhoo/Zhihu-Parallax-Animation)
 
 	知乎 Android 客户端启动页的视差动画效果实现
 	![](https://github.com/ryanhoo/Zhihu-Parallax-Animation/raw/develop/images/zhihu-parallax-animation.gif)
 	
-- [MISportsConnectWidget](https://github.com/sickworm/MISportsConnectWidget)
+- [**MISportsConnectWidget**](https://github.com/sickworm/MISportsConnectWidget)
 
 	仿写酷界面】【HenCoder】仿小米运动的运动记录界面
 	![](https://raw.githubusercontent.com/SickWorm/MISportsConnectWidget/master/README/new.gif)
 
-- [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)
+- [**LayoutManagerGroup**](https://github.com/DingMouRen/LayoutManagerGroup)
 
 	👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
 	| EchelonLayoutManager | SkidRightLayoutManager | SlideLayoutManager |
-| :----: | :---:| :---:|
-|![img1](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif) |  ![img2](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)| ![img3](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)|
+	| :----: | :---:| :---:|
+	|![img1](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif) |  ![img2](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)| ![img3](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)|
+	
+	| PickerLayoutManager | BannerLayoutManager | ViewPagerLayoutManager |
+	| :---:| :---:|:---:|
+	|  ![img4](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)|![img5](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)|![img6](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)|
+	
+- [**smartTable**](https://github.com/huangyanbin/smartTable)
 
-| PickerLayoutManager | BannerLayoutManager | ViewPagerLayoutManager |
-| :---:| :---:|:---:|
-|  ![img4](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)|![img5](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)|![img6](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)|
+	一款android自动生成表格框架
+	![](https://github.com/huangyanbin/smartTable/raw/master/img/table.gif)
+	
+- [**GALeafLoading**](https://github.com/Ajian-studio/GALeafLoading)
+
+	![](https://github.com/Ajian-studio/GALeafLoading/raw/master/raw/leaf_loading_readme.gif)
+	
+- [**RippleLayout**](https://github.com/SouthernBox/RippleLayout)
+	
+	水波纹点击效果
+	![](https://github.com/SouthernBox/RippleLayout/raw/master/images/RippleLayout.gif)
+	
+- [**FancyView**](https://github.com/wongzy/FancyView)
+
+	提供Android酷炫的开屏动画 (awesome-opening-animation)
+	![](https://camo.githubusercontent.com/ab7e85767b9926164a6b787c46f418390be8d3a0/68747470733a2f2f692e6c6f6c692e6e65742f323031372f31322f31382f356133373536616434626433352e676966)
+	
+- [**TheGlowingLoader**](https://github.com/varunest/TheGlowingLoader)
+
+	炫酷的加载动画
+	![](https://github.com/varunest/TheGlowingLoader/raw/master/art/default.gif)
+	
+- [**dotsindicator**](https://github.com/tommybuonomo/dotsindicator)
+
+	三款Material风格的viewpager指示器
+	![](https://user-images.githubusercontent.com/15737675/40272405-d7c5f192-5bac-11e8-9231-551c23ba7ef1.gif)
+	
+- [**PanoramaImageView**](https://github.com/gjiazhe/PanoramaImageView)
+
+	一款根据手腕滑动的view
+	![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/horizontal_sample.gif)
+	![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/vertical_sample.gif)
+``
+- [**CombineBitmap**](https://github.com/SheHuan/CombineBitmap)
+
+	Android 仿钉钉、微信 群聊组合头像
+	![](https://github.com/SheHuan/CombineBitmap/raw/master/images/d3.PNG)
+	![](https://github.com/SheHuan/CombineBitmap/raw/master/images/w8.PNG)
+	
+- [**SmileView**](https://github.com/zenglingchao/SmileView)
+
+	仿《最美有物》笑脸点赞控件
+	![](https://camo.githubusercontent.com/75d404ee156a2abd9dc496933216dc2f9514d1f4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333931303632332d333232303066316231343934316266332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+	
+- [**MNImageBrowser**](https://github.com/maning0303/MNImageBrowser)
+
+	一个图片浏览框架,类似微信图片浏览,手势向下滑动关闭,图片加载引擎自定义,支持长按,单击监听,切换监听,自定义任意的遮罩层，实现各种效果,支持横竖屏切换,简单方便。
+	![](https://github.com/maning0303/MNImageBrowser/raw/master/screenshots/mn_imagebrowser001.gif)
+	
+- [**Flopsy**](https://github.com/omar753sahl/Flopsy)
+
+	一个可爱的小兔子动画响应文本场互动。
+	![](https://github.com/omar753sahl/Flopsy/raw/master/art/demo_2.gif)
