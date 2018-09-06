@@ -1,35 +1,31 @@
 ### 自定义view
 ----
 
-
 - [**AgentWeb**](https://github.com/Justson/AgentWeb)
 
 	AgentWeb 是一个基于的 Android WebView ，简单易用 ， 带有进度条 、 支持文件上传 、 下载 、 简化与 Javascript 通信 、 链式调用 、带有错误页、权限拦截、定位 、 支持多个 WebViewClient ，WebChromeClient、 加强 Web 安全，功能强大的库 ，更多使用请参照上面的 Sample 。
 
-
-
 - [**Shimmer for Android**](https://github.com/facebook/shimmer-android)
 
-	![view](https://github.com/facebook/shimmer-android/raw/master/shimmer.gif?raw=true)
+	![](https://github.com/facebook/shimmer-android/raw/master/shimmer.gif?raw=true)
 
 - [**RotatingText**](https://github.com/sdsmdg/RotatingText)
 
-	![view](https://github.com/sdsmdg/RotatingText/raw/master/screens/gif_cover.gif)
+	![](https://github.com/sdsmdg/RotatingText/raw/master/screens/gif_cover.gif)
 
 - [**Toasty**](https://github.com/GrenderG/Toasty)
 
-	![view](https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png)
+	![](https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png)
 
 - [**EdgeTranslucence**](https://github.com/qinci/EdgeTranslucent)
 
  	Android 任意View边沿渐变透明  
- 	![view](https://github.com/qinci/EdgeTranslucent/raw/master/image/image.gif)
+ 	![](https://github.com/qinci/EdgeTranslucent/raw/master/image/image.gif)
 
 - [**MarkdownView**](https://github.com/tiagohm/MarkdownView)
 
 	Android library to display markdown text  
-
-	![view](https://raw.githubusercontent.com/tiagohm/MarkdownView/master/1.png)
+	![](https://raw.githubusercontent.com/tiagohm/MarkdownView/master/1.png)
 
 - [**Android-skin-support**](https://github.com/ximsfei/Android-skin-support)
 
@@ -38,86 +34,87 @@
 
 - [**Ticker**](https://github.com/robinhood/ticker)
 
-	![view](https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif)
+	![](https://github.com/robinhood/ticker/raw/master/assets/ticker_main.gif)
 
 - [**PdfViewer**](https://github.com/barteksc/AndroidPdfViewer)
 
-	一款关于显示pdf格式文档的view
+	一款关于显示pdf格式文档的view  
 
 - [**MarqueeViewLibrary**](https://github.com/gongwen/MarqueeViewLibrary)
 
 	一个很方便使用和扩展的跑马灯Library，通过提供不同的MarqueeFactory来定制不同的跑马灯View， 并且提供了常用类型的跑马灯效果：SimpleMarqueeView  
-	![view](https://github.com/gongwen/MarqueeViewLibrary/raw/master/screenshot/screen_shot.gif)
+	![](https://github.com/gongwen/MarqueeViewLibrary/raw/master/screenshot/screen_shot.gif)
 
 - [**Stepper-Touch**](https://github.com/DanielMartinus/Stepper-Touch)
 
-	![Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif)
+	![](https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif)
 
 - [**ArcLayout**](https://github.com/florent37/ArcLayout)
 
 	关于圆弧背景的view  
-	![ArcLayout](https://raw.githubusercontent.com/florent37/ArcLayout/master/media/video1.gif)
+	![](https://raw.githubusercontent.com/florent37/ArcLayout/master/media/video1.gif)
 
 - [**DanmukuLight**](https://github.com/hpdx/DanmukuLight)
 
 	Android上专为视频直播打造的轻量级弹幕库（100多kb）  
-	![result_image.jpg](https://github.com/hpdx/DanmukuLight/raw/master/result_image.jpg)
+	![](https://github.com/hpdx/DanmukuLight/raw/master/result_image.jpg)
 
 - [**Roll3DImageView**](https://github.com/zhangyuChen1991/Roll3DImageView)
 
 	这是一个实现图片3D翻转的自定义view,包含四种3D翻转的效果以及一种2D平移效果。  
-	|2D平移|3D翻转|3D开合翻转|
+	| 2D平移 | 3D翻转 | 3D开合翻转 |
 	|:---:|:---:|:---:|
-	|![2D平移](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/2d.gif)|![3D翻转](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/whole3D.gif)|![3D开合翻转](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/spe.gif)|
-	|百叶窗|轮转效果|
+	| ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/2d.gif) | ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/whole3D.gif) | ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/spe.gif) |
+	
+	| 百叶窗 | 轮转效果 |
 	|:---:|:---:|:---:|
-	|![百叶窗](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/byc.gif)|![轮转效果](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/inturn.gif)|
+	| ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/byc.gif) | ![](https://github.com/zhangyuChen1991/some_sources/raw/master/3DView/inturn.gif) |
 
 - [**HideKeyboard**](https://github.com/yingLanNull/HideKeyboard)
 
 	仿iOS输入法点击输入框以外区域 自动隐藏软键盘轻量级库。  
-	![HideKeyboard](https://github.com/yingLanNull/HideKeyboard/raw/master/show/show.gif)
+	![](https://github.com/yingLanNull/HideKeyboard/raw/master/show/show.gif)
 
 - [**SimpleRatingBar**](https://github.com/ome450901/SimpleRatingBar)
 
 	一款很好看的评分view  
-	![SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif)
+	![](https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif)
 
 - [**CookieBar**](https://github.com/liuguangqiang/CookieBar)
 
 	关于应用内弹出提示消息的view  
-	![**CookieBar**](https://github.com/liuguangqiang/CookieBar/raw/master/arts/custom.gif)
+	![](https://github.com/liuguangqiang/CookieBar/raw/master/arts/custom.gif)
 
 - [**ExpandIcon**](https://github.com/zagum/Android-ExpandIcon)
 
-	![ExpandIcon](https://github.com/zagum/Android-ExpandIcon/raw/master/art/expand_icon_demo.gif)
+	![](https://github.com/zagum/Android-ExpandIcon/raw/master/art/expand_icon_demo.gif)
 
 - [**PagerBottomTabStrip**](https://github.com/tyzlmjj/PagerBottomTabStrip)
 
-	|图1|图2|
+	| 图1 | 图2 |
 	|:---:|:---:|
-	|![PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo.png)|![PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo8.png)|
+	| ![](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo.png) | ![](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo8.png) |
 
 - [**BoomMenu**](https://github.com/Nightonke/BoomMenu)
 
-	|图1|图2|图3|图4|
+	| 图1 | 图2 | 图3 | 图4 |
 	|:---:|:---:|:---:|:---:|
-	|![BoomMenu](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/text-inside-button.gif)|![BoomMenu](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/ham-button.gif)|![BoomMenu](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/actionbar-example.gif)|![BoomMenu](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/share-example.gif)|
+	| ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/text-inside-button.gif) | ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/ham-button.gif) | ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/actionbar-example.gif) | ![](https://github.com/Nightonke/BoomMenu/raw/master/Pictures/share-example.gif) |
 	
 - [**BubbleView**](https://github.com/cpiz/BubbleView)
 
 	BubbleView是带箭头的Android气泡控件/容器类，支持在布局中通过自定义属性或代码进行丰富的定制  
-	![BubbleView](https://github.com/cpiz/BubbleView/raw/master/screenshots/1.png)
+	![](https://github.com/cpiz/BubbleView/raw/master/screenshots/1.png)
 
 - [**SlidingUpPanelLayout**](https://github.com/woxingxiao/SlidingUpPanelLayout)
 
-	|图1|图2|
+	| 图1 | 图2 |
 	|:---:|:---:|
-	|![SlidingUpPanelLayout](https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo1.gif)||![SlidingUpPanelLayout](https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo2.gif)|
+	| ![](https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo1.gif) | ![](https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo2.gif) |
 
 - [**FunnyLoader**](https://github.com/team-supercharge/FunnyLoader)
 
-	![FunnyLoader](https://github.com/team-supercharge/FunnyLoader/raw/master/funnyloader.gif)
+	![](https://github.com/team-supercharge/FunnyLoader/raw/master/funnyloader.gif)
 
 - [**settingscompat**](https://github.com/czy1121/settingscompat)
 
@@ -128,31 +125,31 @@
 - [**MaterialShadows**](https://github.com/harjot-oberai/MaterialShadows)
 
 	关于material阴影的view  
-	![MaterialShadows](https://github.com/harjot-oberai/MaterialShadows/raw/master/screens/cover.png)
+	![](https://github.com/harjot-oberai/MaterialShadows/raw/master/screens/cover.png)
 
 - [**SlantedTextView**](https://github.com/HeZaiJin/SlantedTextView)
 
 	一个倾斜的TextView,适用于标签效果。  
-	![SlantedTextView](https://github.com/HeZaiJin/SlantedTextView/raw/master/screen_shot/screenshot.png)
+	![](https://github.com/HeZaiJin/SlantedTextView/raw/master/screen_shot/screenshot.png)
 
 - [**CardView**](https://github.com/vivian8725118/CardView)
 
 	类似小票效果的卡片列表，并且可以修改阴影颜色  
-	|图1|图2|
+	| 图1 | 图2 |
 	|:---:|:---:|
-	|![CardView](https://github.com/vivian8725118/ShadeDemo/raw/master/art/S61201-155859.jpg)|![CardView](https://github.com/vivian8725118/ShadeDemo/raw/master/art/S61201-163058.jpg)|
+	| ![](https://github.com/vivian8725118/ShadeDemo/raw/master/art/S61201-155859.jpg) | ![](https://github.com/vivian8725118/ShadeDemo/raw/master/art/S61201-163058.jpg) |
 
 - [**FlowingDrawer**](https://github.com/mxn21/FlowingDrawer)
 
-	![FlowingDrawer](https://camo.githubusercontent.com/a7131784a75e6f07646108b8304b0a0d4efd306b/687474703a2f2f62616f62616f6c6f7665796f752e636f6d2f666c6f77696e676472617765722e676966)
+	![](https://camo.githubusercontent.com/a7131784a75e6f07646108b8304b0a0d4efd306b/687474703a2f2f62616f62616f6c6f7665796f752e636f6d2f666c6f77696e676472617765722e676966)
 
 - [**JellyToggleButton**](https://github.com/Nightonke/JellyToggleButton)
 
-	![JellyToggleButton](https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true)
+	![](https://github.com/Nightonke/JellyToggleButton/raw/master/img/JellyToggleButton4.gif?raw=true)
 
 - [**AndroidSweetSheet**](https://github.com/zzz40500/AndroidSweetSheet)
 
-	![AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet/raw/master/screenshot/Design.gif)
+	![](https://github.com/zzz40500/AndroidSweetSheet/raw/master/screenshot/Design.gif)
 
 - [**ContourView**](https://github.com/OCNYang/ContourView)
 	
@@ -162,12 +159,12 @@
 - [**CalendarView**](https://github.com/huanghaibin-dev/CalendarView)
 	
 	Android上一个优雅、万能自定义UI、支持周视图、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！ 
-	|**收缩展开的魅族风格效果**|**下标和多彩风格**|**快速年份月份切换**|
+	| **收缩展开的魅族风格效果** | **下标和多彩风格** | **快速年份月份切换** |
 	|:---:|:---:|:---:|
-	|![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu.png)
-	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu_shrink.png)|![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/index_expand.png)
-	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/color_expand.png)|![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/year_view.png)
-	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/simple_expand.png)|
+	| ![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu.png)  
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/meizu_shrink.png) | ![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/index_expand.png)  
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/color_expand.png) | ![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/year_view.png)  
+	![](https://github.com/huanghaibin-dev/CalendarView/raw/master/app/src/main/assets/simple_expand.png) |
 
 - [**transitioner**](https://github.com/dev-labs-bg/transitioner)
 	
@@ -215,11 +212,11 @@
 	
 	| EchelonLayoutManager | SkidRightLayoutManager | SlideLayoutManager |
 	|:----:|:---:| :---:|
-	|![img1](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif) |![img2](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)|![img3](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)|
+	| ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif) | ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif) | ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif) |
 	
 	| PickerLayoutManager | BannerLayoutManager | ViewPagerLayoutManager |
 	|:---:| :---:|:---:|
-	|![img4](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)|![img5](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)|![img6](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)|
+	| ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif) | ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif) | ![](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif) |
 	
 - [**smartTable**](https://github.com/huangyanbin/smartTable)
 
@@ -259,8 +256,9 @@
 - [**CombineBitmap**](https://github.com/SheHuan/CombineBitmap)
 
 	Android 仿钉钉、微信 群聊组合头像  
-	![](https://github.com/SheHuan/CombineBitmap/raw/master/images/d3.PNG)
-	![](https://github.com/SheHuan/CombineBitmap/raw/master/images/w8.PNG)
+	| 钉钉 | 微信 |
+	|:---:| :---:|
+	| ![](https://github.com/SheHuan/CombineBitmap/raw/master/images/d3.PNG) | ![](https://github.com/SheHuan/CombineBitmap/raw/master/images/w8.PNG) |
 	
 - [**SmileView**](https://github.com/zenglingchao/SmileView)
 
