@@ -230,13 +230,14 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 - [**LayoutManagerGroup**](https://github.com/DingMouRen/LayoutManagerGroup)
 
 	👉 Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+	
 	| EchelonLayoutManager | SkidRightLayoutManager | SlideLayoutManager |
-	| :----: | :---:| :---:|
-	|![img1](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif) |  ![img2](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)| ![img3](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)|
+	|:----:|:---:| :---:|
+	|![img1](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img1.gif) |![img2](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img2.gif)|![img3](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img3.gif)|
 	
 	| PickerLayoutManager | BannerLayoutManager | ViewPagerLayoutManager |
-	| :---:| :---:|:---:|
-	|  ![img4](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)|![img5](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)|![img6](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)|
+	|:---:| :---:|:---:|
+	|![img4](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img4.gif)|![img5](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img5.gif)|![img6](https://github.com/DingMouRen/LayoutManagerGroup/raw/master/picture/img6.gif)|
 	
 - [**smartTable**](https://github.com/huangyanbin/smartTable)
 
@@ -270,9 +271,10 @@ Android 6.0+需要在manifest中申请并且通过发送Intent让用户在设置
 - [**PanoramaImageView**](https://github.com/gjiazhe/PanoramaImageView)
 
 	一款根据手腕滑动的view
+	
 	![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/horizontal_sample.gif)
 	![](https://github.com/gjiazhe/PanoramaImageView/raw/master/screenshots/vertical_sample.gif)
-``
+
 - [**CombineBitmap**](https://github.com/SheHuan/CombineBitmap)
 
 	Android 仿钉钉、微信 群聊组合头像
